@@ -312,13 +312,13 @@
 <DIV CLASS = "not-mobile">
   <DIV CLASS = "row">
 	  <DIV CLASS = "col-xs-12 col-sm-4 text-center">
-	   <IMG SRC = "shipito/fr/imgs/home/step1.svg" CLASS = "step-image img-responsive"/>
+	   <IMG SRC = "{{asset('area1/Inscription et connexion lynai express.png')}}" CLASS = "step-image img-responsive"/>
 	  </DIV>
 	  <DIV CLASS = "col-xs-12 col-sm-4 text-center">
-	   <IMG SRC = "shipito/fr/imgs/home/step2.svg" CLASS = "step-image img-responsive"/>
+	   <IMG SRC = "{{asset('area1/Achetez et expédition.png')}}" CLASS = "step-image img-responsive"/>
 	  </DIV>
 	  <DIV CLASS = "col-xs-12 col-sm-4 text-center">
-	   <IMG SRC = "shipito/fr/imgs/home/step3.svg" CLASS = "step-image img-responsive"/>
+	   <IMG SRC = "{{asset('area1/Regroupez vos colis.png')}}" CLASS = "step-image img-responsive"/>
 	  </DIV>
   </DIV>
   <DIV CLASS = "row">
@@ -583,11 +583,11 @@
       <DIV CLASS="fast-consol"><A HREF="#">Rien de plus facile que de regrouper ses colis!</A></DIV>
     </DIV>
     {{-- <DIV CLASS = "flex-col col-sm-6 col-xs-12" STYLE = "background-image: url('shipito/fr/imgs/asssistedpurchase/download-1.jpg'); background-repeat: no-repeat; background-size: cover;"></DIV> --}}
-    <div class="flex-col col-sm-6 col-xs-12" style="background-image: url('shipito/fr/imgs/ShipitoAssociate.jpg'); background-repeat: no-repeat; background-size: cover;"></div>
+    <div class="flex-col col-sm-6 col-xs-12" style="background-image: url('area2/livreur3.jpg'); background-repeat: no-repeat; background-size: cover;"></div>
   </DIV>
   <DIV CLASS = "row flex-row">
-    <DIV CLASS = "flex-col col-sm-6 col-xs-12 fast-mailout">
-        <IMG SRC = "shipito/fr/imgs/fast-mailout/French.svg" CLASS = "img-fast-mailout img-responsive"/>
+    <DIV CLASS = "flex-col col-sm-6 col-xs-12">
+        <IMG SRC = "area2/38988.jpg" style="width: auto" CLASS = "img-fast-mailout img-responsive"/>
     </DIV>
     <DIV CLASS = "flex-col col-sm-6 col-xs-12 flex-caption">
       <SPAN CLASS="caption">Qui ne souhaiterait pas que ça aille plus vite ?! Voici le Fast Mailout ™ de Lynia Delivery. </SPAN>
