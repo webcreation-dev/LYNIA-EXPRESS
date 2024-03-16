@@ -590,7 +590,7 @@
         <IMG SRC = "area2/38988.jpg" style="width: auto" CLASS = "img-fast-mailout img-responsive"/>
     </DIV>
     <DIV CLASS = "flex-col col-sm-6 col-xs-12 flex-caption">
-      <SPAN CLASS="caption">Qui ne souhaiterait pas que ça aille plus vite ?! Voici le Fast Mailout ™ de Lynia Delivery. </SPAN>
+      <SPAN CLASS="caption">Qui ne souhaiterait pas  que ça aille plus vite ?! Voici le Fast Mailout ™ de Lynia Delivery. </SPAN>
       <DIV CLASS="fast-consol"><A HREF="#">Créez votre profil d'Envoi Rapide dès aujourd'hui!</A></DIV>
     </DIV>
   </DIV>
